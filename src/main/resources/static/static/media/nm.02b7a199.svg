@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="278" height="93" viewBox="0 0 278 93">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6cff5f"/>
+      <stop offset="1" stop-color="#7ee277"/>
+    </linearGradient>
+    <filter id="Rectangle_676" x="0" y="0" width="278" height="93" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1067" data-name="Group 1067" transform="translate(-345 -3565)">
+    <g transform="matrix(1, 0, 0, 1, 345, 3565)" filter="url(#Rectangle_676)">
+      <rect id="Rectangle_676-2" data-name="Rectangle 676" width="260" height="75" rx="37.5" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="Normal_mail" data-name="Normal mail" transform="translate(402 3592)" fill="#fff" font-size="30" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700"><tspan x="0" y="27">Normal mail</tspan></text>
+  </g>
+</svg>

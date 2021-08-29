@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="284.182" height="501" viewBox="0 0 284.182 501">
+  <defs>
+    <filter id="Rectangle_670" x="31" y="83" width="108" height="108" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_671" x="36" y="88" width="98" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_672" x="41" y="93" width="88" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1069" data-name="Group 1069" transform="translate(-357 -3085)">
+    <g id="Group_1068" data-name="Group 1068">
+      <g id="Group_1062" data-name="Group 1062">
+        <g id="_85f99fa9ecf3a1c2865652b158173317" data-name="85f99fa9ecf3a1c2865652b158173317" transform="translate(103.8 3075)">
+          <path id="Path_906" data-name="Path 906" d="M278.878,72.574H510.553V446.33H278.878Zm238.238-5.828a4.936,4.936,0,0,0-2.994-1.074H275.308c-1.209,0-1.785.511-2.994,1.074a3.881,3.881,0,0,0-1.209,2.658V450.062c0,1.074.576,1.585,1.209,2.658a4.936,4.936,0,0,0,2.994,1.074H514.756c1.209,0,1.785-.511,2.994-1.074,1.209-.511,1.209-1.585,1.209-2.658V69.353a16.725,16.725,0,0,0-1.842-2.607ZM413.772,44.968a3.881,3.881,0,0,0,1.209-2.658c0-1.074-.576-1.585-1.209-2.658a4.936,4.936,0,0,0-2.994-1.074H374.334c-1.209,0-1.785.511-2.994,1.074a3.881,3.881,0,0,0-1.209,2.658c0,1.074.576,1.585,1.209,2.658a4.936,4.936,0,0,0,2.994,1.074h36.5c1.151,0,1.785-.511,2.936-1.074Zm-9.5,423.089h0c2.361,2.1,2.994,4.754,2.994,7.975v1.074a9.241,9.241,0,0,1-4.2,7.975,15.107,15.107,0,0,1-9.557,3.732h-.576a14.953,14.953,0,0,1-9.557-3.732c-2.361-2.1-4.2-4.754-4.2-7.975v-1.074a9.189,9.189,0,0,1,3.57-7.413l.576-.511,1.785-1.585a12.28,12.28,0,0,1,4.779-2.1c.576,0,1.785-.511,2.361-.511h1.209a11.867,11.867,0,0,1,4.2.511c1.209.511,2.361,1.074,3.57,1.585l.576.511a7.442,7.442,0,0,1,2.476,1.534Zm-15.545-10.582a19.61,19.61,0,0,0-7.772,3.17l-1.785,1.585a3.06,3.06,0,0,0-1.785,1.074c-3.57,3.17-5.354,7.413-5.988,12.218v1.585c0,4.754,2.361,9,6.563,12.73a21.582,21.582,0,0,0,14.911,5.828h1.209a22.55,22.55,0,0,0,14.911-5.828,16.61,16.61,0,0,0,5.988-13.241v-1.074a17.925,17.925,0,0,0-5.354-12.729l-.576-.511-.576-.511c-.576-.511-1.785-1.074-2.36-1.585a9.48,9.48,0,0,0-4.2-2.1,17.993,17.993,0,0,0-7.772-1.585H392.93c-1.209.409-2.418.409-4.2.971ZM496.217,16.9h1.209c8.981.511,16.12,3.732,21.475,9.56,5.988,6.339,9.557,13.8,9.557,23.312V471.227a33.539,33.539,0,0,1-9.557,23.312c-5.354,5.828-12.551,9-21.475,9.56H295.574q-15.2,0-25.1-9.56a33.539,33.539,0,0,1-9.557-23.312V49.773a33.539,33.539,0,0,1,9.557-23.312c5.988-6.339,14.336-9.56,25.1-9.56H496.217Zm2.936-6.39c-.576,0-1.209-.511-1.785-.511H295.574c-12.551,0-23.26,3.732-31.032,12.218C257.4,29.631,253.2,38.629,253.2,49.773V471.789c0,11.145,4.2,20.142,11.342,27.555C272.314,507.319,282.447,511,295.574,511h203c10.766-1.074,19.69-4.754,26.887-11.656,7.772-7.413,11.342-16.973,11.918-27.555V49.773c0-11.145-4.2-20.142-11.918-27.555-7.2-7.464-16.121-11.145-26.311-11.707Z" transform="translate(0)"/>
+        </g>
+        <text id="Yoga_app" data-name="Yoga app" transform="translate(501 3203)" fill="#707070" font-size="20" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700"><tspan x="0" y="18">Yoga app</tspan></text>
+        <text id="Permissions:_-_Calendar_Last_updated:_1_month_ago_Reviewe:_-_good_app_-_amazing_app_" data-name="Permissions:
+- Calendar
+
+Last updated: 1 month ago
+
+Reviewe:
+-“good app”
+- “amazing app”
+
+" transform="translate(397 3285)" fill="#707070" font-size="20" font-family="TimesNewRomanPSMT, Times New Roman"><tspan x="0" y="18">Permissions:</tspan><tspan x="0" y="41">- Calendar</tspan><tspan x="0" y="64"></tspan><tspan x="0" y="87">Last updated: 1 month ago</tspan><tspan x="0" y="110"></tspan><tspan x="0" y="133">Reviewe:</tspan><tspan x="0" y="156">-“good app”</tspan><tspan x="0" y="179">- “amazing app”</tspan><tspan x="0" y="202"></tspan></text>
+        <g transform="matrix(1, 0, 0, 1, 357, 3085)" filter="url(#Rectangle_670)">
+          <rect id="Rectangle_670-2" data-name="Rectangle 670" width="90" height="90" rx="21" transform="translate(40 89)" fill="#ffea4a" opacity="0.689"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 357, 3085)" filter="url(#Rectangle_671)">
+          <rect id="Rectangle_671-2" data-name="Rectangle 671" width="80" height="80" rx="21" transform="translate(45 94)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 357, 3085)" filter="url(#Rectangle_672)">
+          <rect id="Rectangle_672-2" data-name="Rectangle 672" width="70" height="70" rx="21" transform="translate(50 99)" fill="#ffe205" opacity="0.72"/>
+        </g>
+        <text id="A" transform="translate(427 3194)" fill="#fff" font-size="40" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700"><tspan x="0" y="36">A</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

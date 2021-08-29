@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="344" height="438.377" viewBox="0 0 344 438.377">
+  <defs>
+    <filter id="Rectangle_652" x="0" y="0" width="344" height="438.377" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#57b8d1"/>
+      <stop offset="1" stop-color="#8d90c3"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1044" data-name="Group 1044" transform="translate(-1018 -2206)">
+    <g transform="matrix(1, 0, 0, 1, 1018, 2206)" filter="url(#Rectangle_652)">
+      <rect id="Rectangle_652-2" data-name="Rectangle 652" width="320" height="414.377" rx="32" transform="translate(12 6)" fill="#fff"/>
+    </g>
+    <g id="layer1" transform="translate(852.918 1848.297)" opacity="0.5">
+      <path id="path3794" d="M330.594,479.614c0,57.386-47.245,103.908-105.526,103.908S119.542,537,119.542,479.614s47.245-103.908,105.526-103.908,105.526,46.521,105.526,103.908Z" transform="translate(112 13.176)" fill="url(#linear-gradient)"/>
+      <g id="g3885" transform="translate(264.935 423.71)">
+        <path id="path2816" d="M345.736,422.393c0,38.161-32.292,69.1-72.13,69.1s-72.13-30.936-72.13-69.1,32.292-69.1,72.13-69.1,72.13,30.936,72.13,69.1Z" transform="translate(-201.477 -353.294)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="14"/>
+        <path id="path3592" d="M230,442.36H353.577" transform="translate(-218.147 -408.961)" fill="none" stroke="#fff" stroke-width="14"/>
+        <path id="path3592-2" d="M228,538.86H354.519" transform="translate(-217.618 -435.563)" fill="none" stroke="#fff" stroke-width="14"/>
+        <path id="path3592-2-5" d="M218,491.36H356.288" transform="translate(-214.974 -422.469)" fill="none" stroke="#fff" stroke-width="14"/>
+        <path id="path3592-4-4-3" d="M310.25,532.388V399.11" transform="translate(-239.367 -397.039)" fill="none" stroke="#fff" stroke-width="14"/>
+        <path id="path3592-4-4-3-0" d="M297.291,532.388c-44.318-15.03-51.674-109.194,0-133.278" transform="translate(-226.408 -397.039)" fill="none" stroke="#fff" stroke-width="14"/>
+        <path id="path3592-4-4-3-8" d="M310.25,532.388c51.306-22.273,51.306-109.194,0-133.278" transform="translate(-239.367 -397.039)" fill="none" stroke="#fff" stroke-width="14"/>
+      </g>
+    </g>
+    <rect id="Rectangle_653" data-name="Rectangle 653" width="294" height="5" rx="2.5" transform="translate(1043 2467)" opacity="0.504" fill="url(#linear-gradient)"/>
+    <g id="Group_1041" data-name="Group 1041" transform="translate(576 -27)">
+      <text id="Lesson_3" data-name="Lesson 3" transform="translate(508.45 2539.294)" fill="#262626" font-size="13" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0">Lesson 3</tspan></text>
+      <text id="Phishing_" data-name="Phishing
+" transform="translate(508.45 2571.707)" fill="#262626" font-size="14" font-family="Helvetica"><tspan x="0" y="0">Phishing</tspan><tspan font-family="Tisa OT"><tspan x="0" y="31"></tspan></tspan></text>
+      <g id="Group_1038" data-name="Group 1038" transform="translate(508.45 2615.019) rotate(-90)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="10.789" cy="10.789" r="10.789" fill="url(#linear-gradient)"/>
+        <path id="Path_4" data-name="Path 4" d="M10.091,0,5.014,5.014,0,0" transform="translate(5.712 9.012)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+      <text id="Start" transform="translate(541.826 2607.386)" fill="#002d69" font-size="11" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0">Start</tspan></text>
+    </g>
+  </g>
+</svg>

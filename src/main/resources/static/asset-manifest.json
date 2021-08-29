@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94905382.chunk.css",
+    "main.js": "/static/js/main.395171a6.chunk.js",
+    "main.js.map": "/static/js/main.395171a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7722d489.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7722d489.js.map",
+    "static/js/2.ebc5c166.chunk.js": "/static/js/2.ebc5c166.chunk.js",
+    "static/js/2.ebc5c166.chunk.js.map": "/static/js/2.ebc5c166.chunk.js.map",
+    "static/js/3.32f24fbc.chunk.js": "/static/js/3.32f24fbc.chunk.js",
+    "static/js/3.32f24fbc.chunk.js.map": "/static/js/3.32f24fbc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.94905382.chunk.css.map": "/static/css/main.94905382.chunk.css.map",
+    "static/js/2.ebc5c166.chunk.js.LICENSE.txt": "/static/js/2.ebc5c166.chunk.js.LICENSE.txt",
+    "static/media/app.986e78ee.svg": "/static/media/app.986e78ee.svg",
+    "static/media/app2.fbcf92a3.svg": "/static/media/app2.fbcf92a3.svg",
+    "static/media/app4.1b2711e5.svg": "/static/media/app4.1b2711e5.svg",
+    "static/media/bottom.fdcd9bd8.svg": "/static/media/bottom.fdcd9bd8.svg",
+    "static/media/done.ac1bc754.svg": "/static/media/done.ac1bc754.svg",
+    "static/media/globe.b6a22414.svg": "/static/media/globe.b6a22414.svg",
+    "static/media/globe1.32e9a96d.svg": "/static/media/globe1.32e9a96d.svg",
+    "static/media/lesson1.f389c18d.svg": "/static/media/lesson1.f389c18d.svg",
+    "static/media/lesson2.22d0edb9.svg": "/static/media/lesson2.22d0edb9.svg",
+    "static/media/lesson3.f27b5910.svg": "/static/media/lesson3.f27b5910.svg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/nm.02b7a199.svg": "/static/media/nm.02b7a199.svg",
+    "static/media/no.888e4358.svg": "/static/media/no.888e4358.svg",
+    "static/media/ph.c8e4f9e7.svg": "/static/media/ph.c8e4f9e7.svg",
+    "static/media/startButton.cab415ad.svg": "/static/media/startButton.cab415ad.svg",
+    "static/media/yes.1ce1da4d.svg": "/static/media/yes.1ce1da4d.svg",
+    "static/media/yogaApp.e605cc29.svg": "/static/media/yogaApp.e605cc29.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7722d489.js",
+    "static/js/2.ebc5c166.chunk.js",
+    "static/css/main.94905382.chunk.css",
+    "static/js/main.395171a6.chunk.js"
+  ]
+}

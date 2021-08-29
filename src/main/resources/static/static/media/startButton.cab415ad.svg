@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="193.525" height="66" viewBox="0 0 193.525 66">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#57b8d1"/>
+      <stop offset="1" stop-color="#8d90c3"/>
+    </linearGradient>
+    <filter id="Path_903" x="0" y="0" width="193.525" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1036" data-name="Group 1036" transform="translate(-171 -592)">
+    <g transform="matrix(1, 0, 0, 1, 171, 592)" filter="url(#Path_903)">
+      <path id="Path_903-2" data-name="Path 903" d="M3.359,0H172.166c1.855,0,3.359,1.791,3.359,4V44c0,2.209-1.5,4-3.359,4H3.359C1.5,48,0,46.209,0,44V4C0,1.791,1.5,0,3.359,0Z" transform="translate(9 5)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="START" transform="translate(253 628)" fill="#fff" font-size="20" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0">START</tspan></text>
+    <g id="Group_27" data-name="Group 27" transform="translate(195.205 611.936)">
+      <path id="Path_7" data-name="Path 7" d="M24.912,8.762s-5.584,8.762-12.456,8.762S0,8.762,0,8.762,5.584,0,12.456,0,24.912,8.762,24.912,8.762Z" fill="#fff"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="5.584" cy="5.584" r="5.584" transform="translate(6.786 3.264)" fill="url(#linear-gradient)"/>
+    </g>
+    <rect id="Rectangle_648" data-name="Rectangle 648" width="2" height="24" transform="translate(229 609)" fill="#fff"/>
+  </g>
+</svg>

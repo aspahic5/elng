@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="278" height="93" viewBox="0 0 278 93">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff5f5f"/>
+      <stop offset="0.97" stop-color="#ce6666"/>
+      <stop offset="1" stop-color="#b9e3b6"/>
+    </linearGradient>
+    <filter id="Rectangle_669" x="0" y="0" width="278" height="93" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1064" data-name="Group 1064" transform="translate(-897 -3329)">
+    <g transform="matrix(1, 0, 0, 1, 897, 3329)" filter="url(#Rectangle_669)">
+      <rect id="Rectangle_669-2" data-name="Rectangle 669" width="260" height="75" rx="37.5" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="Don_t_Install" data-name="Don’t Install" transform="translate(953 3356)" fill="#fff" font-size="30" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700"><tspan x="0" y="27">Don’t Install</tspan></text>
+  </g>
+</svg>

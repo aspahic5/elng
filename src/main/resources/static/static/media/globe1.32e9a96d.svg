@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288.121" height="283.704" viewBox="0 0 288.121 283.704">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#57b8d1"/>
+      <stop offset="1" stop-color="#8d90c3"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(-231.542 -388.882)" opacity="0.097">
+    <path id="path3794" d="M407.663,517.558c0,78.341-64.5,141.852-144.061,141.852S119.542,595.9,119.542,517.558s64.5-141.852,144.061-141.852,144.061,63.508,144.061,141.852Z" transform="translate(112 13.176)" fill="url(#linear-gradient)"/>
+    <g id="g3885" transform="translate(277.13 436.428)">
+      <path id="path2816" d="M398.415,447.626c0,52.1-44.084,94.333-98.469,94.333s-98.469-42.233-98.469-94.333,44.084-94.333,98.469-94.333,98.469,42.233,98.469,94.333Z" transform="translate(-201.477 -353.294)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="14"/>
+      <path id="path3592" d="M230,442.36H398.7" transform="translate(-213.818 -396.765)" fill="none" stroke="#fff" stroke-width="14"/>
+      <path id="path3592-2" d="M228,538.86H400.72" transform="translate(-213.827 -397.842)" fill="none" stroke="#fff" stroke-width="14"/>
+      <path id="path3592-2-5" d="M218,491.36H406.787" transform="translate(-213.868 -397.312)" fill="none" stroke="#fff" stroke-width="14"/>
+      <path id="path3592-4-4-3" d="M310.25,581.057V399.11" transform="translate(-213.483 -396.283)" fill="none" stroke="#fff" stroke-width="14"/>
+      <path id="path3592-4-4-3-0" d="M310.455,581.057c-60.5-20.518-70.544-149.068,0-181.947" transform="translate(-213.688 -396.283)" fill="none" stroke="#fff" stroke-width="14"/>
+      <path id="path3592-4-4-3-8" d="M310.25,581.057c70.042-30.407,70.042-149.068,0-181.947" transform="translate(-213.483 -396.283)" fill="none" stroke="#fff" stroke-width="14"/>
+    </g>
+  </g>
+</svg>
